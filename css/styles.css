@@ -155,14 +155,14 @@ color: #ef8172;
 }
 
 /* media query */
-@media (max-width:1000px){
+@media (max-width:991px){
   #title{
     text-align: center;
   }
   .title-image{
     width: 40%;
     position: static;
-    text-align: center;
+       margin-right: 64px;
     transform: rotate(0deg);
   }
 }
